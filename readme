@@ -1,5 +1,5 @@
 Discription: This repository is based on a youtube tutorial from Arhnuld, thank you sir for this awesome video.
 https://www.youtube.com/watch?v=YYyWCegP4ec&t=606s
 
-1. This code is currently NOT fully functional. I'm getting an error saying the table "items" is missing. I'm hoping someone can review my code and tell me what is wrong? :-).
+1. This code is currently NOT fully functional. I'm getting an error "Something went wrong:could not prepare statement (1 no such table: items)". I'm hoping someone can review my code and tell me what is wrong? :-).
 2. The CSS styling is no longer working i'm guessing this is due to Onsen's recent update to 2.x?
